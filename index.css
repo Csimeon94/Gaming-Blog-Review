@@ -1,3 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
 body{
   background: black;
+}
+.main{
+  margin: 36px;
+}
+
+.jumbotron{
+  background-color: black;
+}
+
+.title{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  text-align: center;
+}
+
+.titleCard{
+  background-color: #2a2a2a;
+
+}
+.titleCard a{
+font-size: 13px;
+}
+
+p{
+  font-size: 13px;
+}
+
+.postTitle{
+  margin-top: 14px;
+}
+
+#mainContent{
+  padding: 25px;
 }
